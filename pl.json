@@ -1,0 +1,77 @@
+{
+  "Loading": "Ładowanie",
+  "More Posts": "Więcej Postów",
+
+  "Recent Posts": "Poprzednie Posty",
+  "Featured Post": "Polecane Posty",
+  "Page Not Found": "Strona nie została znaleziona",
+  "Load Comments": "Wczytaj Komentarze",
+  "You might also like": "Może ci się spodobać",
+  "Tags": "Tagi",
+  "Authors": "Autorzy",
+  "Navigation": "Navigacja",
+  "Published with {ghostLink} & {themeLink}": "Opublikowano z {ghostLink} & {themeLink} przez s500.",
+
+  "Share on Twitter": "Udostępnij na Twitterze",
+  "Share on Facebook": "Udostępnij na Facebook",
+  "Share on LinkedIn": "Udostępnij na LinkedIn",
+  "Share on Pinterest": "Udostępnij na Pinterest",
+  "Share via Email": "Udostępnij przez e-mail",
+  "Copy link": "Skopiuj link",
+  "Link copied to clipboard": "Link skopiowano do schowka",
+
+  "Search": "Szukaj",
+  "Search {siteTitle}": "Szukaj {siteTitle}",
+  "Type to Search": "Wpisz, aby wyszukać",
+  "Enable dark mode": "Włącz tryb ciemny",
+
+  "Paid": "Płatne",
+  "Members": "Członkowie",
+  "Public": "Publiczne",
+
+  "Account": "Konto",
+  "Log in": "Zaloguj",
+  "Log out": "Wyloguj",
+  "Continue": "Kontynuuj",
+  "Subscribe": "Subskrybuj",
+  "Subscribe Now": "Zapisz się teraz",
+  "Your email address": "Twój adres e-mail",
+  "Please check your inbox and click the link to complete the login.": "Proszę sprawdzić swoją skrzynkę odbiorczą i kliknąć na link, aby dokończyć logowanie.",
+  "Please check your inbox and click the link to confirm your subscription.": "Proszę sprawdzić swoją skrzynkę odbiorczą i kliknąć na link, aby potwierdzić subskrypcję.",
+  "Please enter a valid email address!": "Proszę wpisać prawidłowy adres e-mail!",
+  "An error occurred, please try again later.": "Wystąpił błąd, proszę spróbować ponownie później.",
+
+  "Already have an account?": "Masz już konto?",
+  "Don't have an account yet?": "Nie masz jeszcze konta?",
+
+  "This post is for paying subscribers only": "Ten post jest dostępna wyłącznie dla płatnych subskrybentów",
+  "This post is for subscribers only": "Ten post jest dostępna tylko dla subskrybentów",
+  "This page is for paying subscribers only": "Ta strona jest dostępna wyłącznie dla płatnych subskrybentów",
+  "This page is for subscribers only": "Ta strona jest dostępna tylko dla subskrybentów",
+
+  "Join the newsletter to receive the latest updates in your inbox.": "Dołącz do newslettera, aby otrzymywać najnowsze informacje na swoją skrzynkę pocztową.",
+
+  "Choose your subscription": "Wybierz swoją subskrypcję",
+  "Unlock full access to {siteTitle} and see the entire library of members-only content & updates.": "Odblokuj pełny dostęp do {siteTitle} i zobacz całą bibliotekę treści i aktualizacji dostępnych tylko dla członków.",
+  "Subscribe to {siteTitle}": "Subskrybuj {siteTitle}",
+  "Choose this plan": "Wybierz ten plan",
+  "Monthly": "Miesięcznie",
+  "Yearly": "Rocznie",
+  "month": "miesiąc",
+  "year": "rok",
+
+  "Welcome back!": "Witaj ponownie!",
+  "Log in to your account again": "Zaloguj się ponownie na swoje konto",
+  "Send login link": "Wyślij link do logowania",
+
+  "Nice, you're a subscriber!": "Super, jesteś subskrybentem!",
+  "Your subscription will expire on": "Twoja subskrypcja wygaśnie w dniu",
+  "Your plan": "Twój plan",
+  "Card": "Karta",
+  "Expires": "Wygasa",
+  "Next bill date": "Data następnej płatności",
+  "Edit billing info": "Edytuj dane płatnicze",
+  "You have an active {siteTitle} account with access to all posts.": "Masz aktywne konto na {siteTitle} z dostępem do wszystkich postów.",
+  "You're a subscriber to free members updates": "Jesteś subskrybentem bezpłatnych aktualizacji dla członków",
+  "You are subscribed to free updates from {siteTitle}, but don't have a paid subscription to read all the posts.": "Jesteś subskrybentem darmowych aktualizacji z {siteTitle}, ale nie masz płatnej subskrypcji, aby przeczytać wszystkie posty."
+}
